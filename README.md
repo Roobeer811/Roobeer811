@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rober</h1>
 <h3 align="center">A developer from Spain</h3>
-- 🔭 I’m currently studying on **Campus Cámara de Comercio de Sevilla**
+- 🔭 I’m currently studying on <b>Campus Cámara de Comercio de Sevilla</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
